@@ -40,12 +40,6 @@ python src/05_evaluate_models.py
 python src/06_gradcam_visualisation.py
 ```
 
-Or:
-
-```bash
-python run_all.py
-```
-
 ## Main outputs
 
 Reports:
