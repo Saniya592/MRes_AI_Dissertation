@@ -1,4 +1,4 @@
-# Cross-Disease Retinal Feature Transfer for Diabetes Prediction Using Glaucoma Fundus Images
+# Cross-Disease Retinal Feature Transfer for diabetic retinopathy Prediction Using Glaucoma Fundus Images.
 
 1. Stage 1 trains an EfficientNetB0 source-domain model on the EyePACS-AIROGS-Light-V2 Glaucoma Dataset.
 2. Stage 2 trains a direct baseline model on the APTOS 2019 Blindness Detection Dataset.
