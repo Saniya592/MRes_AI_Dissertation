@@ -84,3 +84,6 @@ outputs/gradcam/misclassified_cases/aptos_baseline/
 outputs/gradcam/misclassified_cases/glaucoma_to_aptos_transfer/
 outputs/gradcam/misclassified_case_comparisons/
 ```
+
+
+NOTE : All code contained in this repository was developed independently by me as part of my dissertation project. The implementation, design decisions and ideas presented in the code are my own work and have not been directly copied from code written by other authors. Where external libraries, frameworks, or resources have been used, they are appropriately acknowledged and referenced.
